@@ -1,0 +1,98 @@
+{
+	margin: 0;
+	padding: 0;
+}
+
+body
+{
+	background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(assets/background.jpg);
+	background-size: cover;
+	background-position: center;
+	
+}
+
+body h1
+{
+	margin-top: 30px;
+	color: #e50914;
+
+}
+
+.header-btn
+{
+	text-decoration: none !important;
+	float: right;
+	margin-top: -50px;
+}
+
+.movie-details
+{
+	margin: 5% 0;
+}
+
+.left-box {
+	color: white;
+	margin-left: 5%
+}
+
+.casting
+{
+	margin-bottom: 20px;
+}
+
+.casting img
+{
+	width: 60px;
+	height: 60px;
+	margin-right: 10px;
+	cursor: pointer;
+}
+
+.md-btn
+{
+	text-decoration: none !important;
+	margin-right: 10px;
+	border-radius: 10px;
+	font-weight: 400;
+}
+
+.fa
+{
+	margin-right: 5px;
+}
+
+.main-img
+{
+	height: 350px;
+	margin-left: 145%;
+	margin-top: -80%;
+}
+
+.md-btn
+{
+	margin-bottom: 40px;
+}
+
+.relates
+{
+	color: white;
+	display: center;
+}
+
+
+
+.recommend img
+{
+	width: 170px;
+	height: 170px;
+	margin-left: 40px;
+	margin-bottom: 40px;
+	cursor: pointer;
+	transition: 0.7s;
+}
+
+
+.recommend img:hover
+{
+	transform: translateY(-10px);
+}
